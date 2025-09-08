@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-image: url('./files/yellow bg.jpg');
+    background-image: url('/files/yellow bg.jpg');
     background-size: cover;
 }
 
@@ -52,3 +52,4 @@ footer {
     color: white;
 
 }
+
